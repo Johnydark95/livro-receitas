@@ -6,5 +6,9 @@ receita de lanchinho
  . 5 esquentar o pão
  . 6 comer o lanche
  . 7 fazer a digestão
+<<<<<<< HEAD
+=======
+ . 8 limpar a bunda
+>>>>>>> d3db7e865f8b589ad219438e53362681cef74b9f
  fim
  
