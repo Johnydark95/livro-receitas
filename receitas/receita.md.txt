@@ -1,6 +1,8 @@
 receita de lanchinho
- . 1
- . 2
- . 3
+ . 1 pegar o pão
+ . 2 cortar o pão
+ . 3 passar a maionese
+ . 4 colocar o queijo
+ . 5 esquentar o pão
 
 fim.
