@@ -4,5 +4,6 @@ receita de lanchinho
  . 3 passar a maionese
  . 4 colocar o queijo
  . 5 esquentar o pão
-
-fim.
+ . 6 comer o lanche
+ fim
+ 
